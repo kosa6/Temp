@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RestApi</string>
+    <string name="title_activity_login1">LoginActivity1</string>
+</resources>
